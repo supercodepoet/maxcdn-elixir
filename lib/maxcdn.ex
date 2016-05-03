@@ -1,0 +1,2 @@
+defmodule MaxCDN do
+end
